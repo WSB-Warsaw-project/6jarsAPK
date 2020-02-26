@@ -19,19 +19,19 @@ Założenia projektu:
     - Wpływy i wydatki (ilość wpływów i wydatków)
     - Historia* (Historia ze wszystkich słoików)
     - Wykres (Wykres przedstawiający stosunek wpłat do wydatków - miesięcznie)
-  2. Słoiki
+ 2. Słoiki
     - Nazwa słoika u góry
     - Środki na słoiku
     - Wpływy i wydatki (w słoiku)
     - Historia
     - Wykres (z jednego słoika)
-  3. Operacje
+ 3. Operacje
     - Dodawanie kwoty (do wszystkich słoików [dzieląc całą kwotę na wyznaczone procenty])
     - Odejmowanie kwoty (w poszczególnych słoikach - kwota, data, opis - eksport do historii słoika i całej aplikacji (wydatki)
     - Przenoszenie kwoty (ze słoika A do słoika B - kwota, data, opis, słoik A, słoik B - nowy "wydatek" w A oraz wpłata w "B"
-  4. Ustawienia
+ 4. Ustawienia
     - Zmiana nazwy słoików 
     - Zmiana procentu przydzielanego do słoika (suma maksymalnie 100%)
-  5. Funkcje dodatkowe
+ 5. Funkcje dodatkowe
     - Funkcje dodatkowe opisane w project.txt
   
