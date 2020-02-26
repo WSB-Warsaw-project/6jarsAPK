@@ -5,12 +5,12 @@ Rozwiązanie to polega na rozkładaniu swoich miesięcznych przychodów na sześ
 
 Projekt aplikacji w głównej mierze opiera się na przyjmowaniu liczb do poszczególnych "słoików".
 Opierajac się na metodzie H.Ekera swóją aplikację oparliśmy na 6 słoikach grupując je w poniższy sposób:
-Słoik Nr. 1 - 10% Przyjemności
-Słoik Nr. 2 - 10% Większe zakupy 
-Słoik Nr. 3 - 10% Edukacja
-Słoik Nr. 4 - 10% Inwestycje
-Słoik Nr. 5 - 5% Prezenty
-Słoik Nr. 6 - 55$ Opłaty stałe.
+- Słoik Nr. 1 - 10% Przyjemności
+- Słoik Nr. 2 - 10% Większe zakupy 
+- Słoik Nr. 3 - 10% Edukacja
+- Słoik Nr. 4 - 10% Inwestycje
+- Słoik Nr. 5 - 5% Prezenty
+- Słoik Nr. 6 - 55$ Opłaty stałe.
 
 Założenia projektu:
  1. Start
